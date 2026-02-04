@@ -1,10 +1,39 @@
-**Session Archive - Peer Grønnerup**
+# 📚 Session Archive - Peer Grønnerup
 
-This repository contains materials from conference sessions, community talks, and webinars delivered personally by me on topics like Microsoft Fabric, Power BI, Tabular Editor, and related data platform topics.
+Welcome to my comprehensive archive of conference sessions, community talks, and webinars! This repository serves as a centralized hub for all materials related to my presentations on **Microsoft Fabric**, **Power BI**, **Tabular Editor**, and other data platform technologies.
 
-The purpose of this repository is to provide a central, easy-to-navigate archive of session slide decks, sample code, scripts etc.
+## 🎯 Purpose
 
-The structure is intentionally kept simple and intuitive, making it easy to find content without prior knowledge of the repository.
+This repository provides:
+- **Easy access** to session materials including slide decks, sample code, and scripts
+- **Organized structure** by year for intuitive navigation
+- **Comprehensive resources** for attendees and the broader community
+- **Searchable content** without requiring prior repository knowledge
 
-Repository Structure
-The repository is organized by session type first, then by event or topic, and finally by year.
+## 📁 Repository Structure
+
+Sessions are organized chronologically by year to ensure easy discovery and access:
+
+```
+SessionArchive/
+├── 2025/
+│   ├── Multipe files/
+│   ├── Single Slide Deck.pdf
+├── 2026/
+│   └── [Future Sessions]
+└── README.md
+```
+
+## 📞 Contact & Feedback
+
+If you have questions about any session materials or would like to connect:
+
+- **LinkedIn**: [Peer Grønnerup](https://linkedin.com/in/peergronnerup)
+- **Issues**: Feel free to open an issue in this repository for questions or suggestions
+
+## 📄 License
+
+Unless otherwise specified, all materials in this repository are shared for educational and community purposes. Please respect any third-party licensing requirements mentioned in individual session folders.
+
+---
+*Happy learning! 🚀*
