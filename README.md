@@ -1,4 +1,4 @@
-#Session Archive - Peer Grønnerup
+**Session Archive - Peer Grønnerup**
 
 This repository contains materials from conference sessions, community talks, and webinars delivered personally by me on topics like Microsoft Fabric, Power BI, Tabular Editor, and related data platform topics.
 
